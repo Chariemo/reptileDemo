@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5ce82fb-7bee-49c0-be2e-3c9f06e8a43b" name="Default" comment="BeautifulSoup Demos">
-      <change beforePath="" afterPath="$PROJECT_DIR$/default/pymysqlDemo.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/default/requestDemo.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -75,8 +74,8 @@
       <file leaf-file-name="pymysqlDemo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/default/pymysqlDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
               <folding>
                 <marker date="1520419368790" expanded="true" signature="404:530" ph="CREATE TABLE... IF" />
                 <marker date="1520419368790" expanded="true" signature="876:910" ph="INSERT INTO student... " />
@@ -411,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520438155696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pymysql Demo">
+      <created>1520438187118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520438187118</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -450,7 +456,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BeautifulSoup Demos" />
-    <option name="LAST_COMMIT_MESSAGE" value="BeautifulSoup Demos" />
+    <MESSAGE value="pymysql Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="pymysql Demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -564,8 +571,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/default/pymysqlDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
           <folding>
             <marker date="1520419368790" expanded="true" signature="404:530" ph="CREATE TABLE... IF" />
             <marker date="1520419368790" expanded="true" signature="876:910" ph="INSERT INTO student... " />
