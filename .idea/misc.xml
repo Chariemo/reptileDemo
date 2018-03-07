@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\chenjianlin\.m2\repository" />
+        <option name="mavenHome" value="C:/Tools/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\Users\chenjianlin\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (reptile_test)" project-jdk-type="Python SDK" />
+</project>
