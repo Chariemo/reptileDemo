@@ -4,8 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/default/requestDemo.py" line="18" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ce82fb-7bee-49c0-be2e-3c9f06e8a43b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/default/beautiful_soup.py" />
+    <list default="true" id="c5ce82fb-7bee-49c0-be2e-3c9f06e8a43b" name="Default" comment="BeautifulSoup Demos">
       <change beforePath="" afterPath="$PROJECT_DIR$/default/pymysqlDemo.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/default/requestDemo.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -405,6 +404,14 @@
       <option name="presentableId" value="Default" />
       <updated>1520386336502</updated>
     </task>
+    <task id="LOCAL-00001" summary="BeautifulSoup Demos">
+      <created>1520438155696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520438155696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -440,6 +447,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BeautifulSoup Demos" />
+    <option name="LAST_COMMIT_MESSAGE" value="BeautifulSoup Demos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
