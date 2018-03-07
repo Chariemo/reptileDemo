@@ -4,8 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/default/requestDemo.py" line="18" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ce82fb-7bee-49c0-be2e-3c9f06e8a43b" name="Default" comment="BeautifulSoup Demos">
-      <change beforePath="" afterPath="$PROJECT_DIR$/default/requestDemo.py" />
+    <list default="true" id="c5ce82fb-7bee-49c0-be2e-3c9f06e8a43b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/getAjaxPage/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/getAjaxPage/crawlajax.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +18,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/reptile_test$pymysqlDemo.coverage" NAME="pymysqlDemo Coverage Results" MODIFIED="1520419356224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/default" />
+    <SUITE FILE_PATH="coverage/reptile_test$crawlajax.coverage" NAME="crawlajax Coverage Results" MODIFIED="1520440260159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getAjaxPage" />
     <SUITE FILE_PATH="coverage/reptile_test$requestDemo.coverage" NAME="requestDemo Coverage Results" MODIFIED="1520402077501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/default" />
     <SUITE FILE_PATH="coverage/reptile_test$beautiful_soup.coverage" NAME="beautiful_soup Coverage Results" MODIFIED="1520411415633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/default" />
   </component>
@@ -71,16 +73,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pymysqlDemo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pymysqlDemo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/default/pymysqlDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+            <state relative-caret-position="463">
+              <caret line="47" column="19" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
               <folding>
                 <marker date="1520419368790" expanded="true" signature="404:530" ph="CREATE TABLE... IF" />
                 <marker date="1520419368790" expanded="true" signature="876:910" ph="INSERT INTO student... " />
                 <marker date="1520419368790" expanded="true" signature="876:920" ph="INSERT INTO student... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawlajax.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/getAjaxPage/crawlajax.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-896">
+              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,6 +118,7 @@
         <option value="$PROJECT_DIR$/default/pymysqlDmeo.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b0a85d13-25c2-4bd5-9145-6dad5f724c0f/console.sql" />
         <option value="$PROJECT_DIR$/default/pymysqlDemo.py" />
+        <option value="$PROJECT_DIR$/getAjaxPage/crawlajax.py" />
       </list>
     </option>
   </component>
@@ -147,7 +160,7 @@
             <path>
               <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="reptile_test" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="getAjaxPage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
@@ -159,48 +172,6 @@
               <item name="reptile_test" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (reptile_test) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (reptile_test) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (reptile_test) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (reptile_test) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (reptile_test) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="chardet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reptile_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (reptile_test) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="pymysql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pymysqlDemo">
+  <component name="RunManager" selected="Python.crawlajax">
     <configuration name="beautiful_soup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,6 +218,25 @@
       <module name="reptile_test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/default/beautiful_soup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="crawlajax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/getAjaxPage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="reptile_test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getAjaxPage/crawlajax.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,16 +366,18 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.requestDemo" />
       <item index="1" class="java.lang.String" itemvalue="Python.beautiful_soup" />
       <item index="2" class="java.lang.String" itemvalue="Python.pymysqlDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.crawlajax" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.pymysqlDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.beautiful_soup" />
-        <item index="2" class="java.lang.String" itemvalue="Python.requestDemo" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.crawlajax" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pymysqlDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.beautiful_soup" />
+        <item index="3" class="java.lang.String" itemvalue="Python.requestDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -417,18 +409,24 @@
       <option name="project" value="LOCAL" />
       <updated>1520438187118</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="requests Demo">
+      <created>1520438207485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520438207485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25600836" sideWeight="0.5032189" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28526646" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26541275" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35109717" sideWeight="0.4967811" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -457,7 +455,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BeautifulSoup Demos" />
     <MESSAGE value="pymysql Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="pymysql Demo" />
+    <MESSAGE value="requests Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="requests Demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -571,13 +570,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/default/pymysqlDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        <state relative-caret-position="463">
+          <caret line="47" column="19" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
           <folding>
             <marker date="1520419368790" expanded="true" signature="404:530" ph="CREATE TABLE... IF" />
             <marker date="1520419368790" expanded="true" signature="876:910" ph="INSERT INTO student... " />
             <marker date="1520419368790" expanded="true" signature="876:920" ph="INSERT INTO student... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getAjaxPage/crawlajax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-896">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
