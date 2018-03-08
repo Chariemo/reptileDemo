@@ -2,7 +2,7 @@
 
 # @author: chenjianlin
 # @create: 2018-03-07 16:27
-import pymysql as pymysql
+import pymysql
 
 db = pymysql.connect(host='localhost', user='root', password='admin', port=3306, db='spiders')
 cursor = db.cursor()
