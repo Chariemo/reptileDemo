@@ -49,7 +49,7 @@ def parse_page(j):
             yield weibo
 
 
-for page in range(1, 11):
+for page in range(1, 20):
     json = get_page(page)
     # print(json)
     r = parse_page(json)
